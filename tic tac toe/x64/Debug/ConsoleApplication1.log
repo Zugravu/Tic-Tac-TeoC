@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Zugra\Desktop\Joc\tic tac toe\ConsoleApplication1.cpp(28,9): warning C4101: 'j': unreferenced local variable
+C:\Users\Zugra\Desktop\Joc\tic tac toe\ConsoleApplication1.cpp(28,6): warning C4101: 'i': unreferenced local variable
+  ConsoleApplication1.vcxproj -> C:\Users\Zugra\Desktop\Joc\tic tac toe\x64\Debug\ConsoleApplication1.exe
